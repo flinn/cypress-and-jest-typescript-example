@@ -16,7 +16,7 @@
     "typescript": "^3.9.7"
   },
   "devDependencies": {
-    "@types/jest": "24.9.1",
+    "@types/jest": "26.0.10",
     "jest": "24.9.0",
     "ts-jest": "24.3.0"
   }
